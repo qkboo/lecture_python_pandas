@@ -41,6 +41,11 @@ Project folder:
 업로드한 push_pullrequest.pdf 자료
 
 
+### 5) Markdown 연습
+
+- [markdown 연습](./markdown_ex.md)
+
+
 ---
 
 ### 5) day1 최종 실습
