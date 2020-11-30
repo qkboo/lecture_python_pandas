@@ -29,6 +29,22 @@
 업로드한 **git_remote이용(2p).pdf** 파일 이용
 
 
+#### 3-2) 실습
+
+아래 같이 실습해 보자:
+
+1. ssh-keygen 확인
+ - .ssh/id_rsa, id_ras.pub
+
+2. github 에 새 레포지토리 "test" 생성
+ - README.md 수정
+
+3. local에 "test" clone
+4. local "test"에 파일 "test.md" 파일 생성
+ - commit
+5. local "test" 레포지토리를 github 에 push
+
+
 ### 4) Push, Fork & Pull request
 
 업로드한 push_pullrequest.pdf 자료
