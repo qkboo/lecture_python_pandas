@@ -5,7 +5,9 @@
 1. git
 2. github
 3. markdown
-4. python 준비
+4. linkedin
+5. slideshare
+6. python 준비
 
 
 # day2
