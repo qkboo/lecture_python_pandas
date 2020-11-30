@@ -8,12 +8,17 @@
   - slideshare 가입
 2. markdown
 
-3. python 준비
-
 
 # day2
 
+1. Python 환경
+2. 기본 문법
+
+
 # day3
+
+1. 파이썬 데이터 모델 이해
+
 
 # day4
 
