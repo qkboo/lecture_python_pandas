@@ -9,6 +9,7 @@
 
 ### 2) Cmd, Bash 실습
 
+ - [윈도우즈 cmd명령](./cmd명령.md)
  - [linux명령1.md](./linux명령1.md)
 
 
