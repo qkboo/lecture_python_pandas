@@ -20,19 +20,7 @@
 
 ### 2) git 실습:
 
-```
-Project folder:
-  - 사용자 홈/gittest
-  - git init
-
-1. a.txt 추가
-2. a.txt commit
-3. b.txt 추가
-4. b.txt commit
-5. b.txt 수정
-6. b.txt 추가
-7. b.txt commit
-```
+ - [1. git 초기화 및 commit 연습 로그](./git_log1.md)
 
 
 
