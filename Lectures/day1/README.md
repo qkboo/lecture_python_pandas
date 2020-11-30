@@ -7,6 +7,10 @@
 
  - progit.ko pdf
 
+### 2) Cmd, Bash 실습
+
+ - [linux명령1.md](./linux명령1.md)
+
 
 ### 2) git 실습:
 
