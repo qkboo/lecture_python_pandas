@@ -48,7 +48,7 @@ Project folder:
 
 ---
 
-### 5) day1 최종 실습
+### 6) day1 최종 실습
 
 강의시 작성한 소스 폴더들을 github 에 저장해 관리를 시작해 보자.
 
@@ -63,19 +63,23 @@ Project folder:
 4. github Markdown 이용
 
 
+### 7) 실습
 
-## git 참고
 
  - [git 입문](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
  - [git 발전](https://backlog.com/git-tutorial/kr/stepup/stepup1_1.html)
     - [git 발전: reset](https://backlog.com/git-tutorial/kr/stepup/stepup7_3.html)
  - [한글 pro git](https://git-scm.com/book/ko/v2)
 
-## 리눅스 명령어 연습!!!
+
+
+### 8) 리눅스 명령어 연습!!!
 
  - [연습1: 리눅스 기본 명령어](https://itholic.github.io/linux-basic-command/)
  - [연습2: 리눅스 기본 명령어](https://jhnyang.tistory.com/13)
 
+
+---
 
 ## github 활용 취업
  
