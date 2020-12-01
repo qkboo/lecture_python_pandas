@@ -44,6 +44,11 @@ The Zen of Python, by Tim Peters
 - 네임스페이스를 사용하는 것은 완전 좋은 생각이다! (Namespaces are one honking great idea -- let's do more of those!)
 
 
+### 문자열 메서드 사용
+
+- https://seongjaemoon.github.io/python/2017/12/05/pythonStringFormat.html
+
+
 
 
 
