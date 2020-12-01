@@ -6,9 +6,12 @@
 
 1. Day1
 
-git과 github 사용
-
-  - [day1 link](/Lectures/day1/)
+- git
+- github 가입
+- linkedin 가입
+- slideshare 가입
+- markdown
+ - [day1 link](/Lectures/day1/)
   
 2. Day2
 
