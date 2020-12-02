@@ -6,10 +6,7 @@
 
 1. Day1
 
-- git
-- github 가입
-- linkedin 가입
-- slideshare 가입
+- git/github/linkedin/slideshare 가입
 - markdown
  - [day1 link](/Lectures/day1/)
   
@@ -18,4 +15,9 @@
 파이썬 개발환경
 
  - [day2 link](/Lectures/day2/)
+ 
+ 3. Day3
+ 
+ 제어문/반복문
+  - [day3 link](/Lectures/day3/)
  
