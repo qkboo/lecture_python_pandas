@@ -24,7 +24,11 @@ git과 파이썬 리뷰
 
 ## 3. 과제
 
-#### `input()` 으로 영문 문장을 입력 받아 소문자별 합계를 출력한다.
+아래 과제를 풀고 gangtai.goh@gmail.com 으로 `이름_day3과제.ipynb` 노트북 파일 제출.
+
+---
+
+#### 과제1: `input()` 으로 영문 문장을 입력 받아 소문자별 합계를 출력한다.
 
 예) 다음은 python doc 중 일부:
 
@@ -58,3 +62,8 @@ z: 1
     - 참조: https://seongjaemoon.github.io/python/2017/12/05/pythonStringFormat.html
  - docstring, if, while, for, string methods
 
+
+
+#### 과제2: 5장 연습문제
+
+p199 연습문제 1,2,3,4,5 번
