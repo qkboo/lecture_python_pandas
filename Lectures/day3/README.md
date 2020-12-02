@@ -53,6 +53,8 @@ b: 20
 z: 1
 ```
 
-- 이때 string 메서드에서 isalpha, islower 를 사용해서 구현해 보시오.
- - 참조: https://seongjaemoon.github.io/python/2017/12/05/pythonStringFormat.html
+사용할 구문 및 메서드:
+ - string 메서드에서 isalpha, islower 를 사용해서 구현해 보시오.
+    - 참조: https://seongjaemoon.github.io/python/2017/12/05/pythonStringFormat.html
+ - docstring, if, while, for, string methods
 
