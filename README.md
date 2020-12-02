@@ -19,5 +19,6 @@
  3. Day3
  
  제어문/반복문
-  - [day3 link](/Lectures/day3/)
  
+ - [day3 link](/Lectures/day3/)
+ - day3 과제: [day3과제 1번문제](/Lectures/day3/day3과제_1번문제.ipynb)
