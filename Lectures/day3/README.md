@@ -18,6 +18,10 @@ git과 파이썬 리뷰
 
 #### 리스트
 
+- [내장함수](https://docs.python.org/3/library/functions.html?highlight=sorted#sorted)
+- [more lists methods](https://docs.python.org/3/tutorial/datastructures.html?highlight=list#more-on-lists)
+
+
 #### 튜플과 딕셔너리
 
 ---
