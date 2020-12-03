@@ -14,3 +14,8 @@
 
  - [day4_과제.ipynb](./day4_과제.ipynb)
 
+---
+
+# 제출한 과제 정리
+
+ - [day4_과제_All](./day4_과제_All.ipynb)
