@@ -24,3 +24,4 @@
 리스트, 튜플, 딕셔너리, 세트
 
  - [day4 link](/Lectures/day4/)
+ - [Day4 과제 링크](/Lectures/day4/README.md#day4%EA%B3%BC%EC%A0%9C)
