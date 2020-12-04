@@ -31,4 +31,4 @@
 
 파일, 인코딩, 바이너리/텍스트 파일
 
- - [Day5 진행](/Lectures/day5/day5_진행.ipynb)
+ - [Day5 link](/Lectures/day5/)
