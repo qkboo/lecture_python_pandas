@@ -22,6 +22,7 @@
 
 - [Day5박고등_prac](./Day5박고등_prac.ipynb)
 - [Day5한상근_제출용](./Day5한상근_제출용.ipynb)
+- [day5박태민_실습](./day5박태민_실습.ipynb)
 
 
 
