@@ -25,3 +25,10 @@
 
  - [day4 link](/Lectures/day4/)
  - [Day4 과제 링크](/Lectures/day4/README.md#day4%EA%B3%BC%EC%A0%9C)
+
+
+# 5. Day5
+
+파일, 인코딩, 바이너리/텍스트 파일
+
+ - [Day5 진행](/Lectures/day5/day5_진행.ipynb)
