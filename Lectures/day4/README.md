@@ -1,5 +1,7 @@
 # Python day4
 
+[Day4 진행 노트북](./day4_List_tuple_dict_set.ipynb)
+
 # ex
 
 [Random 이용 숫자 추측 실습](./ex_GuessNumber.ipynb)
