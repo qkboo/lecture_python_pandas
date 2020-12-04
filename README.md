@@ -32,3 +32,4 @@
 파일, 인코딩, 바이너리/텍스트 파일
 
  - [Day5 link](/Lectures/day5/)
+ - [Day5 과제 링크](/Lectures/day5/README.md#day5-과제)
