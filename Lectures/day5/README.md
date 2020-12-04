@@ -1,7 +1,7 @@
 # Day5
 
-[day5_진행 노트북1](./day5_진행.ipynb)
-[day5_진행 노트북2](./day5_진행2.ipynb)
+- [day5_진행 노트북1](./day5_진행.ipynb)
+- [day5_진행 노트북2](./day5_진행2.ipynb)
 
 
 ## Day5 과제
