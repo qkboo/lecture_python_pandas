@@ -10,6 +10,14 @@
 
 # 2. 파일
 
+
+1. open 과 모드
+2. with 구문
+3. encoding
+4. binary
+5. exception
+
+
 #### open()
 
 파일은 open() 명령에서 `<MODE>` 값에 따라 읽고 쓴다. [Python builtin functions](https://docs.python.org/3/library/functions.html)
