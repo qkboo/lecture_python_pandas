@@ -1,8 +1,14 @@
 # Day6
 
+# jupyter notebook
+
+ - ipython Kernel
+ 
+
 # 파일
 
 1. 디렉토리와 파일
+
 
 
 # 파이썬 객체 모델
