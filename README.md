@@ -35,7 +35,7 @@
  - [Day5 과제 링크](/Lectures/day5/README.md#day5-과제)
 
 
-# 5. Day5
+# 6. Day6
 
 Object, copy, class
  - [Day6 link](/Lectures/day6/)
