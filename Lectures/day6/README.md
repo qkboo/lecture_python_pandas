@@ -9,6 +9,10 @@
  - Data model
  - copy
 
+# 교재 연습문제 p373
+
+ - [day6_practice.md](./day6_practice.md)
+
 # 함수의 인수
 
  - 위치기반
