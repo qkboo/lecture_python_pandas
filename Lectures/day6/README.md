@@ -1,5 +1,9 @@
 # Day6
 
+- [day6_진행1 노트북](./day6_진행1.ipynb)
+
+---
+
 # jupyter notebook
 
  - ipython Kernel
