@@ -17,7 +17,8 @@
 # 교재 연습문제 p373
 
  - [day6_practice.md](./day6_practice.md)
-
+ 
+ > 제출한 파일: [day6_hospital.zip](./day6_hospital.zip)
 
 # 파이썬 `class`
 
