@@ -7,3 +7,6 @@
 
 # 2. 데코레이터
 
+# 3. Comprehensions
+
+ - 샘플파일: [8.Comprehensions_1.ipynb](./8.Comprehensions_1.ipynb)
