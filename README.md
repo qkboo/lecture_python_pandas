@@ -1,5 +1,12 @@
 # Python 과정
 
+
+# 8. Day8
+
+Matplotlib, Numpy, Pandas 기초.
+ - [Day8 link](/Lectures/day8/)
+
+
 # 7. Day7
 
 Function 매개변수, Function Closure, Comprehension
