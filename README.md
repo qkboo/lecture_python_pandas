@@ -3,7 +3,7 @@
 # 7. Day7
 
 Function 매개변수, Function Closure, Comprehension
- - [Day7 link)(/Lectures/day7/)
+ - [Day7 link](/Lectures/day7/)
  
 
 # 6. Day6
