@@ -1,6 +1,8 @@
 # Day8
 
 1. [day8_진행1.ipynb](./day8_진행1.ipynb)
+1. [day8_진행2.ipynb](./day8_진행2.ipynb)
+1. [day8_진행3_nba.ipynb](./day8_진행3_nba.ipynb)
 
 ---
 
