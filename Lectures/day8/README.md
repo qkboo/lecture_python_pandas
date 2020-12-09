@@ -1,5 +1,8 @@
 # Day8
 
+1. [day8_진행1.ipynb](./day8_진행1.ipynb)
+
+---
 
 # 아침 실습
 
@@ -8,11 +11,14 @@
 - [doctor2.csv](./doctor2.csv)
 - [cafe_2year.csv](./cafe_2year.csv)
 
-
+> 결과: [matplotlib-ex_a.ipynb](./matplotlib-ex_a.ipynb)
 
 # Matplotlib
 
 # Numpy
+
+
+
 
 # Pandas
 
