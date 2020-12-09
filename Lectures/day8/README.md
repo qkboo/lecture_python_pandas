@@ -18,6 +18,12 @@
 # Numpy
 
 
+- https://numpy.org/devdocs/user/quickstart.html
+- https://datascienceschool.net/01%20python/03.01%20%EB%84%98%ED%8C%8C%EC%9D%B4%20%EB%B0%B0%EC%97%B4.html
+- https://datascienceschool.net/01%20python/03.04%20%EA%B8%B0%EC%88%A0%20%ED%86%B5%EA%B3%84.html
+- 기술통계 실습: https://datascienceschool.net/01%20python/03.04%20%EA%B8%B0%EC%88%A0%20%ED%86%B5%EA%B3%84.html
+ 
+
 
 
 # Pandas
