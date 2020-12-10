@@ -1,5 +1,11 @@
 # Python 과정
 
+# 9. Day9
+
+Regular Expression
+
+ - [Day9 link](/Lectures/day9/)
+
 
 # 8. Day8
 
