@@ -1,5 +1,12 @@
 # Day10
 
+## 과목평가
+
+- 16:00 혹은 16:30 분 시작 예정
+- 제공된 문제 pdf 를 보고 답지를 작성해 제출.
+
+---
+
 ## 주말 과제
 
 day9 [실습 & 과제](https://github.com/qkboo/lecture_python_pandas/tree/main/Lectures/day9#%EC%8B%A4%EC%8A%B5--%EA%B3%BC%EC%A0%9C) 에 이어서 html 파일에서 태그와 단어 빈도수를 내도록 프로그램으로 작성해 제출.
