@@ -1,5 +1,10 @@
 # Python 과정
 
+# 9. Day10
+
+과목평가
+ - [Day10 link](/Lectures/day10/)
+
 # 9. Day9
 
 Regular Expression
